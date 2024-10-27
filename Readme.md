@@ -52,7 +52,7 @@ This api is built using nodejs and expressjs and uses mongodb as the database.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GPL-2.0 License - see the [LICENSE](LICENSE) file for details
 
 ## Contribution
 
