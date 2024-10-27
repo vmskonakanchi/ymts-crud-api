@@ -1,0 +1,28 @@
+{
+  "name": "ymts-dynamic-api",
+  "version": "1.0.0",
+  "description": "Dynamic Api Which Will Be Used For Creating Web-Applications With Speed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "dev": "nodemon ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vamsi Konakanchi",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.3",
+    "node-mailer": "^0.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2"
+  }
+}
